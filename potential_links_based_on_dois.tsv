@@ -1,34 +1,34 @@
 bio.tools	debian
-inspect_ms	inspect
-massxpert	msxpertsuite
+#inspect_ms	inspect done by Hervé
+#massxpert	msxpertsuite  done (in Debichem)
 htseqcount	python-htseq
-htseq	python-htseq
+#htseq	python-htseq  needs clarification, went for this one
 spp	r-other-hms-dbmi-spp
-pyfaidx	python3-pyfaidx
-mach	mach-haplotyper
-hisat2	hisat2
-sparta	sparta
-rapmap	rapmap
+#pyfaidx	python3-pyfaidx done by Hervé
+#mach	mach-haplotyper done by Hervé
+#hisat2	hisat2
+#sparta	sparta  done
+#rapmap	rapmap  done
 seqcluster	python3-seqcluster
-biocgenerics	r-bioc-biocgenerics
-variantannotation	r-bioc-variantannotation
-biomart	r-bioc-biomart
-bioconductor	r-bioc-biocgenerics
-shortread	r-bioc-shortread
-sigma_align	sigma-align
-pscan-chip	pscan-chip
-rainbow	bio-rainbow
-sibelia	sibelia
+#biocgenerics	r-bioc-biocgenerics done
+#variantannotation	r-bioc-variantannotation  done
+#biomart	r-bioc-biomart  done
+bioconductor	r-bioc-biocgenerics "BioConductor" should be a meta package of some sort that Debian does not have
+#shortread	r-bioc-shortread  done
+#sigma_align	sigma-align done
+#pscan-chip	pscan-chip  done
+#rainbow	bio-rainbow done
+#sibelia	sibelia done search tool broken
 biojava	libbiojava-java
-pscanchip	pscan-chip
-summarizedexperiment	r-bioc-biocgenerics
-cnvkit	cnvkit
-mcl	mcl
-crux	crux-toolkit
-tcoffee	t-coffee
-mview_api_ebi	mview
-t-coffee_api_ebi	t-coffee
-mafft_api	mafft
-mview_ebi	mview
-t-coffee	t-coffee
-isomirs	python3-seqcluster
+#pscanchip	pscan-chip  done
+summarizedexperiment	r-bioc-biocgenerics Missing in Debian: https://bioconductor.org/packages/release/bioc/html/SummarizedExperiment.html
+#cnvkit	cnvkit  done
+#mcl	mcl done
+#crux	crux-toolkit  done
+#tcoffee	t-coffee  done - 
+mview_api_ebi	mview Argument API vs EXE
+#t-coffee_api_ebi	t-coffee  The EBI API is something else
+mafft_api	mafft Argument API vs EXE
+mview_ebi	mview Argument API vs EXE
+#t-coffee	t-coffee  Redundant to tcoffee? Not found online
+isomirs	python3-seqcluster  looks wrong
