@@ -10,18 +10,18 @@ hisat2	hisat2
 sparta	sparta
 rapmap	rapmap
 seqcluster	python3-seqcluster
-biocgenerics	r-bioc-biocgenerics
-variantannotation	r-bioc-variantannotation
-biomart	r-bioc-biomart
-bioconductor	r-bioc-biocgenerics
-shortread	r-bioc-shortread
+#biocgenerics	r-bioc-biocgenerics done
+#variantannotation	r-bioc-variantannotation  done
+#biomart	r-bioc-biomart  done
+bioconductor	r-bioc-biocgenerics "BioConductor" should be a meta package of some sort that Debian does not have
+#shortread	r-bioc-shortread  done
 sigma_align	sigma-align
 pscan-chip	pscan-chip
 rainbow	bio-rainbow
 sibelia	sibelia
 biojava	libbiojava-java
 pscanchip	pscan-chip
-summarizedexperiment	r-bioc-biocgenerics
+summarizedexperiment	r-bioc-biocgenerics Missing in Debian: https://bioconductor.org/packages/release/bioc/html/SummarizedExperiment.html
 cnvkit	cnvkit
 mcl	mcl
 crux	crux-toolkit
