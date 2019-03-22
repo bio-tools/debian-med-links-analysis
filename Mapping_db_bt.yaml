@@ -1,0 +1,507 @@
+Jalview:
+- jalview
+abyss:
+- abyss
+alter:
+- alter-sequence-alignment
+andi:
+- andi
+annotationhub:
+- r-bioc-annotationhub
+aroma.light:
+- r-bioc-aroma.light
+artemis:
+- artemis
+atac:
+- atac
+- kmer
+- leaff
+- libkmer-dev
+- meryl
+- sim4db
+augustus:
+- augustus
+autodock_vina:
+- autodock-vina
+avogadro:
+- avogadro
+bali-phy:
+- bali-phy
+bamtools:
+- bamtools
+- libbamtools-dev
+bandage:
+- bandage
+barrnap:
+- barrnap
+bcbio-nextgen:
+- bcbio
+- python3-bcbio
+bcftools:
+- bcftools
+beaconlab_pscan:
+- pscan-tfbs
+beagle:
+- beagle
+beast:
+- beast2-mcmc
+- beast-mcmc
+bedops:
+- bedops
+bedtools:
+- bedtools
+bio-tradis:
+- bio-tradis
+biobase:
+- r-bioc-biobase
+biomaj:
+- python3-biomaj3
+- python3-biomaj3-daemon
+bioperl:
+- bioperl
+biopython:
+- python3-biopython
+- python3-biopython-sql
+- python-biopython-doc
+biostrings:
+- r-bioc-biostrings
+biosyntax:
+- biosyntax
+bitseq:
+- bitseq
+- r-bioc-bitseq
+blasr:
+- blasr
+blast:
+- ncbi-blast+
+- ncbi-blast+-legacy
+bowtie:
+- bowtie
+bowtie2:
+- bowtie2
+boxshade:
+- boxshade
+brig:
+- brig
+bwa:
+- bwa
+caftools:
+- caftools
+canu:
+- canu
+centrifuge:
+- centrifuge
+cgview:
+- cgview
+chromhmm:
+- chromhmm
+circos:
+- circos
+clonalorigin:
+- clonalorigin
+clustalw:
+- clustalw
+cn3d:
+- libncbi6-dev
+- libvibrant6-dev
+- ncbi-tools-bin
+- ncbi-tools-x11
+cner:
+- r-bioc-cner
+crac:
+- crac
+cufflinks:
+- cufflinks
+cummerbund:
+- r-bioc-cummerbund
+cutadapt:
+- cutadapt
+- python3-cutadapt
+delly2:
+- delly
+deseq2:
+- r-bioc-deseq2
+dialign:
+- dialign
+dialign-tx:
+- dialign-tx
+diamond:
+- diamond-aligner
+dindel:
+- dindel
+discosnp:
+- discosnp
+disulfind:
+- disulfinder
+dnaclust:
+- dnaclust
+dnacopy:
+- r-bioc-dnacopy
+dotter:
+- acedb-other
+dssp:
+- dssp
+ea-utils:
+- ea-utils
+ebseq:
+- r-bioc-ebseq
+echo:
+- uc-echo
+eigensoft:
+- eigensoft
+emboss:
+- emboss
+ensembldb:
+- r-bioc-ensembldb
+estscan:
+- estscan
+exonerate:
+- exonerate
+falcon:
+- falcon
+fastml:
+- fastml
+fastqc:
+- fastqc
+fasttree:
+- fasttree
+figtree:
+- figtree
+flexbar:
+- fml-asm
+- libfml-dev
+- flexbar
+freebayes:
+- freebayes
+garlic:
+- garlic
+gbrowse:
+- gbrowse
+genabel:
+- probabel
+- r-cran-genabel
+genefilter:
+- r-bioc-genefilter
+geneplotter:
+- r-bioc-geneplotter
+genometester:
+- genometester
+genometools:
+- genometools
+- libgenometools0-dev
+genomicalignments:
+- r-bioc-genomicalignments
+gfapy:
+- python3-gfapy
+gff2aplot:
+- gff2aplot
+gff2ps:
+- gff2ps
+gffutils:
+- python3-gffutils
+ghemical:
+- ghemical
+giira:
+- giira
+glimmer:
+- tigr-glimmer
+gmap:
+- gmap
+gromacs:
+- gromacs
+gviz:
+- r-bioc-gviz
+gwama:
+- gwama
+hilbertvis:
+- r-bioc-hilbertvis
+idba:
+- idba
+- idba
+igv:
+- igv
+impute:
+- r-bioc-impute
+ipig:
+- ipig
+iq-tree:
+- iqtree
+iva:
+- iva
+java_treeview:
+- treeview
+jellyfish:
+- jellyfish
+- jellyfish1
+kalign:
+- kalign
+khmer:
+- khmer
+kmc:
+- kmc
+kraken:
+- kraken
+krona:
+- radiant
+- sumatra
+lagan:
+- lagan
+last:
+- last-align
+limma:
+- r-bioc-limma
+logol:
+- logol
+lucy:
+- lucy
+macs:
+- macs
+macsyfinder:
+- macsyfinder
+mapsembler:
+- mapsembler2
+maq:
+- maq
+maqview:
+- maqview
+mauve:
+- mauve-aligner
+- progressivemauve
+melting:
+- melting
+mergeomics:
+- r-bioc-mergeomics
+metagenomeseq:
+- r-bioc-metagenomeseq
+metamix:
+- r-cran-metamix
+metastudent:
+- metastudent
+- metastudent-data
+microbegps:
+- microbegps
+minia:
+- minia
+minimac3:
+- minimac4
+mira:
+- mira-assembler
+mrbayes:
+- mrbayes
+mrs:
+- mrs
+mummer:
+- mummer
+muscle:
+- muscle
+mustang:
+- mustang
+ncoils:
+- ncoils
+njplot:
+- njplot
+norsnet:
+- norsnet
+norsp:
+- norsp
+obitools:
+- obitools
+openms:
+- libopenms-dev
+- openms
+- topp
+pal2nal:
+- pal2nal
+paleomix:
+- paleomix
+paml:
+- paml
+patman:
+- patman
+pbsim:
+- pbsim
+pcamethods:
+- r-bioc-pcamethods
+perm:
+- perm
+pftools:
+- pftools
+phylip:
+- phylip
+phyloseq:
+- r-bioc-phyloseq
+phyml:
+- phyml
+picard_tools:
+- picard-tools
+pilon:
+- pilon
+plast:
+- plast
+plink:
+- plink
+- plink1.9
+prank:
+- prank
+predictnls:
+- predictnls
+predictprotein:
+- predictprotein
+presto:
+- python3-presto
+prime:
+- prime-phylo
+primer3:
+- primer3
+probcons:
+- probcons
+proda:
+- proda
+profisis:
+- profisis
+proftmb:
+- proftmb
+prottest:
+- prottest
+pybedtools:
+- python3-pybedtools
+pybel:
+- python3-pybel
+pycogent:
+- python-cogent
+pymol:
+- pymol
+pyronoise:
+- ampliconnoise
+pysam:
+- python3-pysam
+qiime:
+- qiime
+rambo-k:
+- rambo-k
+rasmol:
+- rasmol
+raster3d:
+- raster3d
+raxml:
+- raxml
+readseq:
+- readseq
+reprof:
+- librg-reprof-bundle-perl
+- reprof
+rnahybrid:
+- rnahybrid
+rqtl:
+- r-cran-qtl
+rsem:
+- rsem
+rtracklayer:
+- r-bioc-rtracklayer
+saint:
+- saint
+sam:
+- r-cran-samr
+sambamba:
+- sambamba
+samblaster:
+- samblaster
+samtools:
+- samtools
+scoary:
+- scoary
+seaview:
+- seaview
+segemehl:
+- segemehl
+seqan:
+- seqan-dev
+- seqan-apps
+seqprep:
+- seqprep
+seqtk:
+- seqtk
+sga:
+- sga
+sibsim4:
+- sibsim4
+sickle:
+- sickle
+sift:
+- sift
+sim4:
+- sim4
+smalt:
+- smalt
+smrt_analysis:
+- smrtanalysis
+snap:
+- snap
+snp-o-matic:
+- snpomatic
+soapdenovo:
+- soapdenovo
+- soapdenovo2
+soapsnp:
+- soapsnp
+sortmerna:
+- sortmerna
+spades:
+- spades
+ssake:
+- ssake
+sspace:
+- sspace
+ssw:
+- libssw-dev
+- libssw-java
+- ssw-align
+stacks:
+- stacks
+staden:
+- staden
+star:
+- rna-star
+subread:
+- subread
+swarm:
+- swarm
+tcr:
+- r-cran-tcr
+tfbs:
+- libtfbs-perl
+tfbstools:
+- r-bioc-tfbstools
+tophat:
+- tophat
+transit:
+- tnseq-transit
+tree-puzzle:
+- tree-ppuzzle
+- tree-puzzle
+treeview:
+- treeviewx
+trimmomatic:
+- trimmomatic
+trinity:
+- trinityrnaseq
+trnascan-se:
+- trnascan-se
+ugene:
+- ugene
+varscan:
+- varscan
+vcflib:
+- libvcflib-dev
+- libvcflib-tools
+vcftools:
+- vcftools
+velvet:
+- velvet
+- velvet-long
+velvetoptimiser:
+- velvetoptimiser
+vsearch:
+- vsearch
+wise:
+- wise
